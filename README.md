@@ -1,0 +1,2 @@
+# NMUIDeviceAPP
+Device Information App
